@@ -11,6 +11,7 @@ Soy John, desarrollador full-stack en Chile.
 - TypeScript, JavaScript, Dart, C#
 - Next.js, React, Astro, Flutter
 - Node.js, NestJS, PostgreSQL, Supabase, Redis
+- Mastra (agentes de IA), RAG, n8n
 - Cloudflare, Vercel, Firebase, Azure
 
 #### Contacto
