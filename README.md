@@ -2,9 +2,9 @@
 
 Soy John, desarrollador full-stack en Chile.
 
-- Cofundador de [Revra](https://revra.io) y [NEX](https://nex-radio.com)
+- Mis proyectos personales: [Revra](https://revra.io) y [NEX](https://nex-radio.com)
 - Trabajo en [UPG](https://upg.cl)
-- Mis proyectos: [johnmcan.dev](https://johnmcan.dev)
+- Más info en: [johnmcan.dev](https://johnmcan.dev)
 
 #### Stack
 
