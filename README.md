@@ -13,7 +13,8 @@ Soy John, desarrollador full-stack en Chile.
 - Node.js, NestJS, PostgreSQL, Supabase, Redis
 - Solidity, Foundry, OpenZeppelin (smart contracts en Base, L2 de Ethereum)
 - viem, wagmi, Privy, ERC-4337 (wallets embebidas y account abstraction)
-- Mastra (agentes de IA), RAG, n8n
+- Mastra (agentes de IA), n8n, ElevenLabs (voz, próximamente)
+- RAG con pgvector: ingesta y procesamiento de documentos (web y PDF), embeddings, búsqueda híbrida y reranking
 - Cloudflare, Vercel, Firebase, Azure
 
 #### Contacto
